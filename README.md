@@ -7,6 +7,8 @@
 
 ## My projects
 
+- ### Wabadash
+  My tiny website - [Website](https://wabadash.vercel.app/)
 - ### Space Radar
   Fetch last 24h near Earth asteroids from NASA API - [Website](https://www.google.com)
 - ### Deploy Guide Spring Boot Angular
