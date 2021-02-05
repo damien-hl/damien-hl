@@ -11,8 +11,8 @@
   My tiny website - [Website](https://wabadash.vercel.app/)
 - ### Deploy Guide Spring Boot Angular
   Documentation to deploy an application built with Spring Boot and Angular on a VPS - [Website](https://deploy-guide-spring-boot-angular.vercel.app/) - [Code](https://github.com/damien-hl/deploy-guide-spring-boot-angular)
-- ### Travia (WIP)
-  Travia homepage integration - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
+- ### Travia
+  Travia homepage integration - Fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
 
 ## Contact Me
 
