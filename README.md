@@ -12,7 +12,7 @@
 - ### Deploy Guide Spring Boot Angular
   Documentation to deploy an application built with Spring Boot and Angular on a VPS - [Website](https://deploy-guide-spring-boot-angular.vercel.app/) - [Code](https://github.com/damien-hl/deploy-guide-spring-boot-angular)
 - ### Travia
-  Travia homepage integration - Fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
+  Travia homepage integration, fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
 
 ## Contact Me
 
