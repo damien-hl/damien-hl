@@ -1,11 +1,23 @@
-# Hi there 👋
+# Hi there ! 👋
 
-## I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
+I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 
-## Languages and Tools
-<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP logo" />
+## Languages, frameworks and tools I use
 
-## My projects
+### Overall
+<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript logo" />
+
+### Frontend
+<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass logo" />
+
+### Backend
+<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" alt="Symfony logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="Laravel logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot logo" />
+
+### Databases
+<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB logo" />
+
+
+## Projects I worked on
 
 - ### Wabadash
   My tiny website - [Website](https://wabadash.vercel.app/) - [Code](https://github.com/damien-hl/wabadash)
@@ -14,7 +26,7 @@
 - ### Travia
   Travia homepage integration, fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
 
-## Contact Me
+## Contact me
 
 [<img height="48" width="48" src="./assets/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667.svg" alt="Linkedin logo" />](https://www.linkedin.com/in/damien-heulin/)
 [<img height="48" width="48" src="./assets/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667.svg" alt="JavaScript logo" />](https://twitter.com/damien_hl)
