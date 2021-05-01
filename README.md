@@ -19,6 +19,10 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 
 ## Projects I worked on
 
+- ### Yvanne Coach Bien-être
+  Personal development coach website - [Website](http://yvannecoachbienetre.fr/) - [Code](https://github.com/DrGonzi/ProjetClient)
+- ### Combelli
+  Digital marketing prospection - [Website](http://combelli.com/)
 - ### Wabadash
   My tiny website - [Website](https://wabadash.vercel.app/) - [Code](https://github.com/damien-hl/wabadash)
 - ### Deploy Guide Spring Boot Angular
