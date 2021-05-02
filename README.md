@@ -19,6 +19,8 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 
 ## Projects I worked on
 
+- ### Wild Circus
+  My first HTML/CSS challenge for the Wild Code School - [Website](https://codepen.io/damien-hl/pen/ZjzGNX)
 - ### Yvanne Coach Bien-être
   Personal development coach website - [Website](http://yvannecoachbienetre.fr/)
 - ### Combelli
