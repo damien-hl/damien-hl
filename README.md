@@ -31,6 +31,8 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
   Documentation to deploy an application built with Spring Boot and Angular on a VPS - [Website](https://deploy-guide-spring-boot-angular.vercel.app/) - [Code](https://github.com/damien-hl/deploy-guide-spring-boot-angular)
 - ### Travia
   Travia homepage integration, fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
+- ### Box Shadow Creator
+  Web application to create box shadows - [Website](https://box-shadow-creator.vercel.app/) - [Code](https://github.com/damien-hl/box-shadow-creator)
 
 ## Contact me
 
