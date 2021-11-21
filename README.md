@@ -8,7 +8,7 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript logo" />
 
 ### Frontend
-<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass logo" />
+<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass logo" />
 
 ### Backend
 <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" alt="Symfony logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="Laravel logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot logo" />
@@ -16,13 +16,12 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 ### Databases
 <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL logo" /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB logo" />
 
-
 ## Projects I worked on
 
 - ### Wild Circus
   My first HTML/CSS challenge for the Wild Code School - [Website](https://codepen.io/damien-hl/pen/ZjzGNX)
 - ### Yvanne Coach Bien-être
-  Personal development coach website - [Website](http://yvannecoachbienetre.fr/)
+  Personal development coach website
 - ### Combelli
   Digital marketing prospection - [Website](http://combelli.com/)
 - ### Wabadash
@@ -34,6 +33,13 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 - ### Box Shadow Creator
   Web application to create box shadows - [Website](https://box-shadow-creator.vercel.app/) - [Code](https://github.com/damien-hl/box-shadow-creator)
 
+## Currently working on
+
+- ### Wabadam
+  My personal portfolio website - [Website](https://wabadam.com/)
+- ### LAUTO Logistique
+  Car transport logistic application
+ 
 ## Contact me
 
 [<img height="48" width="48" src="./assets/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667.svg" alt="Linkedin logo" />](https://www.linkedin.com/in/damien-heulin/)
