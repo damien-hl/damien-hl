@@ -36,7 +36,7 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 ## Currently working on
 
 - ### Wabadam
-  My personal portfolio website - [Website](https://wabadam.com/)
+  My personal portfolio website
 - ### LAUTO Logistique
   Car transport logistic application
  
