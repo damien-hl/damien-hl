@@ -23,7 +23,7 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 - ### Yvanne Coach Bien-être
   Personal development coach website
 - ### Combelli
-  Digital marketing prospection - [Website](http://combelli.com/)
+  Digital marketing prospection
 - ### Wabadash
   My tiny website - [Website](https://wabadash.vercel.app/) - [Code](https://github.com/damien-hl/wabadash)
 - ### Deploy Guide Spring Boot Angular
