@@ -19,22 +19,22 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 
 ## Projects I worked on
 
-- ### Wild Circus
-  My first HTML/CSS challenge for the Wild Code School - [Website](https://codepen.io/damien-hl/pen/ZjzGNX)
-- ### Yvanne Coach Bien-être
-  Personal development coach website
-- ### Combelli
-  Digital marketing prospection
-- ### Wabadash
-  My tiny website - [Website](https://wabadash.vercel.app/) - [Code](https://github.com/damien-hl/wabadash)
-- ### Deploy Guide Spring Boot Angular
-  Documentation to deploy an application built with Spring Boot and Angular on a VPS - [Website](https://deploy-guide-spring-boot-angular.vercel.app/) - [Code](https://github.com/damien-hl/deploy-guide-spring-boot-angular)
-- ### Travia
-  Travia homepage integration, fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
-- ### Box Shadow Creator
-  Web application to create box shadows - [Website](https://box-shadow-creator.vercel.app/) - [Code](https://github.com/damien-hl/box-shadow-creator)
-- ### Nuxt3 Auth example
+- ### Nuxt3 Auth example (2022-2023)
   Example of a simple authentication system using Nuxt3 - [Website](https://nuxt3-auth-example.vercel.app/) - [Code](https://github.com/damien-hl/nuxt3-auth-example)
+- ### Box Shadow Creator (2021)
+  Web application to create box shadows - [Website](https://box-shadow-creator.vercel.app/) - [Code](https://github.com/damien-hl/box-shadow-creator)
+- ### Wabadash (2021)
+  My tiny website - [Website](https://wabadash.vercel.app/) - [Code](https://github.com/damien-hl/wabadash)
+- ### Travia (2021)
+  Travia homepage integration, fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
+- ### Deploy Guide Spring Boot Angular (2020)
+  Documentation to deploy an application built with Spring Boot and Angular on a VPS - [Website](https://deploy-guide-spring-boot-angular.vercel.app/) - [Code](https://github.com/damien-hl/deploy-guide-spring-boot-angular)
+- ### Combelli (2019-2020)
+  Digital marketing prospection
+- ### Yvanne Coach Bien-être (2018-2019)
+  Personal development coach website
+- ### Wild Circus (2018)
+  My first HTML/CSS challenge for the Wild Code School - [Website](https://codepen.io/damien-hl/pen/ZjzGNX)
 
 ## Currently working on
 
