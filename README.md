@@ -12,7 +12,7 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 <img height="48" width="48" src="./assets/vue.svg" alt="Vue.js logo" /> <img height="48" width="48" src="./assets/nuxt.svg" alt="Nuxt logo" /> <img height="48" width="48" src="./assets/react.svg" alt="React logo" /> <img height="48" width="48" src="./assets/tailwind.svg" alt="Tailwind CSS logo" />
 
 ### Backend
-<img height="48" width="48" src="./assets/node.svg" alt="Node.js logo" /> <img height="48" width="48" src="./assets/symfony.svg" alt="Symfony logo" /> <img height="48" width="48" src="./assets/spring-boot.svg" alt="Spring Boot logo" />
+<img height="48" width="48" src="./assets/node.svg" alt="Node.js logo" /> <img height="48" width="48" src="./assets/symfony.svg" alt="Symfony logo" /> <img height="48" width="48" src="./assets/spring-boot.svg" alt="Spring Boot logo" /> <img height="48" width="48" src="./assets/go.svg" alt="Go logo" />
 
 ### Databases
 <img height="48" width="48" src="./assets/mysql.svg" alt="MySQL logo" /> <img height="48" width="48" src="./assets/postgresql.svg" alt="PostgreSQL logo" /> <img height="48" width="48" src="./assets//mongo.svg" alt="MongoDB logo" />
