@@ -28,7 +28,7 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 - ### Travia (2021)
   Travia homepage integration, fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
 - ### Deploy Guide Spring Boot Angular (2020)
-  Documentation to deploy an application built with Spring Boot and Angular on a VPS - [Website](https://deploy-guide-spring-boot-angular.vercel.app/) - [Code](https://github.com/damien-hl/deploy-guide-spring-boot-angular)
+  Documentation to deploy an application built with Spring Boot and Angular on a VPS - [Code](https://github.com/damien-hl/deploy-guide-spring-boot-angular)
 - ### Combelli (2019-2020)
   Digital marketing prospection
 - ### Yvanne Coach Bien-être (2018-2019)
