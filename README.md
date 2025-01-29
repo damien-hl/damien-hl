@@ -5,17 +5,17 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 ## Languages, frameworks and tools I use
 
 ### Overall
-<img height="48" width="48" src="./assets/javascript.svg" alt="JavaScript logo" /> <img height="48" width="48" src="./assets/typescript.svg" alt="TypeScript logo" /> <img height="48" width="48" src="./assets/php.svg" alt="PHP logo" /> <img height="48" width="48" src="./assets/css.svg" alt="CSS logo" />
+<img height="48" width="48" src="./.github/assets/javascript.svg" alt="JavaScript logo" /> <img height="48" width="48" src="./.github/assets/typescript.svg" alt="TypeScript logo" /> <img height="48" width="48" src="./.github/assets/php.svg" alt="PHP logo" /> <img height="48" width="48" src="./.github/assets/css.svg" alt="CSS logo" />
 
 
 ### Frontend
-<img height="48" width="48" src="./assets/vue.svg" alt="Vue.js logo" /> <img height="48" width="48" src="./assets/nuxt.svg" alt="Nuxt logo" /> <img height="48" width="48" src="./assets/react.svg" alt="React logo" /> <img height="48" width="48" src="./assets/tailwind.svg" alt="Tailwind CSS logo" />
+<img height="48" width="48" src="./.github/assets/vue.svg" alt="Vue.js logo" /> <img height="48" width="48" src="./.github/assets/nuxt.svg" alt="Nuxt logo" /> <img height="48" width="48" src="./.github/assets/tailwind.svg" alt="Tailwind CSS logo" />
 
 ### Backend
-<img height="48" width="48" src="./assets/node.svg" alt="Node.js logo" /> <img height="48" width="48" src="./assets/symfony.svg" alt="Symfony logo" /> <img height="48" width="48" src="./assets/spring-boot.svg" alt="Spring Boot logo" /> <img height="48" width="48" src="./assets/go.svg" alt="Go logo" />
+<img height="48" width="48" src="./.github/assets/node.svg" alt="Node.js logo" /> <img height="48" width="48" src="./.github/assets/symfony.svg" alt="Symfony logo" /> <img height="48" width="48" src="./.github/assets/go.svg" alt="Go logo" />
 
 ### Databases
-<img height="48" width="48" src="./assets/mysql.svg" alt="MySQL logo" /> <img height="48" width="48" src="./assets/postgresql.svg" alt="PostgreSQL logo" /> <img height="48" width="48" src="./assets//mongo.svg" alt="MongoDB logo" />
+<img height="48" width="48" src="./.github/assets/mysql.svg" alt="MySQL logo" /> <img height="48" width="48" src="./.github/assets/postgresql.svg" alt="PostgreSQL logo" /> <img height="48" width="48" src="./.github/assets/sqlite.svg" alt="MongoDB logo" />
 
 ## Projects I worked on
 
@@ -45,9 +45,9 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
  
 ## Contact me
 
-[<img height="48" width="48" src="./assets/linkedin.svg" alt="Linkedin logo" />](https://www.linkedin.com/in/damien-heulin/)
-[<img height="48" width="48" src="./assets/twitter.svg" alt="JavaScript logo" />](https://twitter.com/damien_hl)
-[<img height="48" width="48" src="./assets/gmail.svg" alt="JavaScript logo" />](mailto:damienheulin87@gmail.com)
+[<img height="48" width="48" src="./.github/assets/linkedin.svg" alt="Linkedin logo" />](https://www.linkedin.com/in/damien-heulin/)
+[<img height="48" width="48" src="./.github/assets/twitter.svg" alt="JavaScript logo" />](https://twitter.com/damien_hl)
+[<img height="48" width="48" src="./.github/assets/gmail.svg" alt="JavaScript logo" />](mailto:damienheulin87@gmail.com)
 
 <!--
 **damien-hl/damien-hl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
