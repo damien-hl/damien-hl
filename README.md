@@ -19,7 +19,7 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 
 ## Projects I worked on
 
-- ### Nuxt3 Auth example (2022-2024)
+- ### Nuxt3 Auth example (2022-2025)
   Example of a simple authentication system using Nuxt3 - [Website](https://nuxt3-auth-example.vercel.app/) - [Code](https://github.com/damien-hl/nuxt3-auth-example)
 - ### Box Shadow Creator (2021)
   Web application to create box shadows - [Website](https://box-shadow-creator.vercel.app/) - [Code](https://github.com/damien-hl/box-shadow-creator)
