@@ -24,7 +24,7 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 - ### Box Shadow Creator (2021)
   Web application to create box shadows - [Website](https://box-shadow-creator.vercel.app/) - [Code](https://github.com/damien-hl/box-shadow-creator)
 - ### Wabadash (2021)
-  My tiny website - [Website](https://wabadash.vercel.app/) - [Code](https://github.com/damien-hl/wabadash)
+  My tiny website - [Code](https://github.com/damien-hl/wabadash)
 - ### Travia (2021)
   Travia homepage integration, fictional travel assistant - [Website](https://travia.vercel.app/) - [Code](https://github.com/damien-hl/travia)
 - ### Deploy Guide Spring Boot Angular (2020)
