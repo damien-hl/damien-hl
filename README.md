@@ -22,7 +22,7 @@ I'm Damien, a passionate Full Stack Developer and Vue.js enthusiast !
 - ### Nuxt3 Auth example (2022-2025)
   Example of a simple authentication system using Nuxt3 - [Website](https://nuxt3-auth-example.vercel.app/) - [Code](https://github.com/damien-hl/nuxt3-auth-example)
 - ### Box Shadow Creator (2021)
-  Web application to create box shadows - [Website](https://box-shadow-creator.vercel.app/) - [Code](https://github.com/damien-hl/box-shadow-creator)
+  Web application to create box shadows - [Code](https://github.com/damien-hl/box-shadow-creator)
 - ### Wabadash (2021)
   My tiny website - [Code](https://github.com/damien-hl/wabadash)
 - ### Travia (2021)
